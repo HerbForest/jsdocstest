@@ -14,5 +14,8 @@
   "devDependencies": {
     "docdash": "^2.0.2",
     "jsdoc": "^4.0.5"
+  },
+  "dependencies": {
+    "init": "^0.1.2"
   }
 }
